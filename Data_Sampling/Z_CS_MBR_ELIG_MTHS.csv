@@ -1,0 +1,826 @@
+"PAYER","LOB","MEMBER_ID","EFFPER","NPI","PRACTICE","MEMBER_MONTHS","EMPLOYMENT_STATUS","DIABETES","VASCULAR_DISEASE","PAD","COPD","CHF","AMI","STROKE","ASTHMA"
+"PAYER1","Commercial","PAYER1_000001","2020-01","1922323310","North Shore Med Group of Mount Sinai",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-02","1922323310","North Shore Med Group of Mount Sinai",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-03","1922323310","North Shore Med Group of Mount Sinai",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-04","1922323310","North Shore Med Group of Mount Sinai",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-05","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-06","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-07","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-08","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-09","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-10","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-11","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000001","2020-12","1477569416","Mount Sinai Doctors Long Island - Huntington",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-01","1417942210","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-02","1417942210","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-03","1417942210","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-04","1417942210","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-05","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-06","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-07","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-08","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-09","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-10","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-11","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000002","2020-12","1639473267","Mount Sinai Doctors Lynbrook Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-01","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-02","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-03","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-04","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-05","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-06","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-07","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-08","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-09","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-10","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-11","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000003","2020-12","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-01","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-02","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-03","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-04","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-05","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-06","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-07","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-08","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-09","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-10","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-11","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000004","2020-12","1316987548","One Medical - Park Slope",1,"Employed",0,0,0,0,0,1,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-01","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-02","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-03","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-04","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-05","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-06","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-07","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-08","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-09","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-10","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-11","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000005","2020-12","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-05","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-06","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-07","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-08","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-09","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000006","2020-10","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000007","2020-01","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-02","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-03","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-04","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-05","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-06","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000007","2020-07","1053350579","General Medical Associates",1,"Employed",0,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000008","2020-01","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-02","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-03","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-04","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-05","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-06","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000008","2020-07","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-01","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-02","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-03","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-04","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-05","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-06","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-07","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-08","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-09","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-10","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-11","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000009","2020-12","1861569964","Mount Sinai Doctors Oceanside Family Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-01","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-02","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-03","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-04","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-05","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-06","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-07","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-08","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-09","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-10","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-11","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000010","2020-12","1811038532","Barry J Cohen MD",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-01","1306897327","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-02","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-03","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-04","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-05","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-06","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-07","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-08","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-09","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-10","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-11","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000011","2020-12","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000012","2020-01","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-02","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-03","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-04","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-05","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-06","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-07","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-08","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-09","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-10","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-11","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000012","2020-12","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER1","Commercial","PAYER1_000013","2020-01","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-02","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-03","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-04","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-05","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-06","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-07","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-08","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-09","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-10","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-11","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000013","2020-12","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-01","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-02","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-03","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-04","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-05","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-06","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-07","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-08","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-09","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-10","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-11","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000014","2020-12","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-01","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-02","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-03","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-04","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-05","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-06","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-07","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-08","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-09","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-10","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-11","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000015","2020-12","1609988211","First Choice Medical PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-01","1326129263","Renee Lefland MD PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-02","1326129263","Renee Lefland MD PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-03","1326129263","Renee Lefland MD PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-04","1326129263","Renee Lefland MD PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-05","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-06","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-07","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-08","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-09","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-10","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-11","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000016","2020-12","1366463820","Unknown Practice - Voluntary",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-01","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-02","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-03","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-04","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-05","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-06","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-07","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-08","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-09","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-10","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-11","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000017","2020-12","1275795049","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000018","2020-08","1285658518","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000018","2020-09","1285658518","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000018","2020-10","1285658518","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000018","2020-11","1285658518","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000018","2020-12","1285658518","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-01","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-02","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-03","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-04","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-05","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-06","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-07","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-08","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-09","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-10","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-11","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000019","2020-12","1821073917","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER1","Commercial","PAYER1_000020","2020-01","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-01","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-02","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-03","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-04","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-05","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-06","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-07","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-08","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-09","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-10","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-11","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000001","2020-12","1225083546","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",1,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000002","2020-01","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-02","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-03","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-04","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-05","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-06","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-07","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-08","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-09","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-10","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-11","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000002","2020-12","1326031535","Jasty & Manvar MD PC",1,"Voluntary",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-01","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000003","2020-02","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000003","2020-03","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000003","2020-04","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000003","2020-05","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000003","2020-06","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-07","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-08","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-09","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-10","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-11","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000003","2020-12","1811302540","Mount Sinai Doctors Long Island - Huntington",1,"Employed",1,0,0,0,0,0,1,0
+"PAYER2","MA","PAYER2_000004","2020-01","1730110743","Internal Medicine Associates",1,"Employed",1,0,0,0,0,1,1,0
+"PAYER2","MA","PAYER2_000004","2020-02","1730110743","Internal Medicine Associates",1,"Employed",1,0,0,0,1,1,1,0
+"PAYER2","MA","PAYER2_000004","2020-03","1730110743","Internal Medicine Associates",1,"Employed",1,0,0,0,1,1,1,0
+"PAYER2","MA","PAYER2_000004","2020-04","1730110743","Internal Medicine Associates",1,"Employed",1,0,0,0,1,1,1,0
+"PAYER2","MA","PAYER2_000004","2020-05","1730110743","Internal Medicine Associates",1,"Employed",1,0,0,0,1,1,1,0
+"PAYER2","MA","PAYER2_000005","2020-01","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-02","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-03","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-04","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-05","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-06","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-07","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-08","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-09","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-10","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-11","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000005","2020-12","1326056326","Mount Sinai Doctors East 85th Street",1,"Employed",1,0,0,0,1,0,0,1
+"PAYER2","MA","PAYER2_000006","2020-01","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-02","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-03","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-04","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-05","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-06","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-07","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-08","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-09","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000006","2020-10","1730185679","Mount Sinai Doctors Manhasset",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-01","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-02","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-03","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-04","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-05","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-06","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-07","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-08","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-09","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-10","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-11","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000007","2020-12","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-01","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-02","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-03","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-04","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-05","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-06","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-07","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-08","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-09","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-10","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-11","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000008","2020-12","1316987548","One Medical - Park Slope",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-01","1053490912","Diamond Medical Group",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-02","1053490912","Diamond Medical Group",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-03","1053490912","Diamond Medical Group",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-04","1053490912","Diamond Medical Group",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-05","1053490912","Diamond Medical Group",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-06","1053490912","Diamond Medical Group",1,"Voluntary",0,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-07","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-08","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-09","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-10","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-11","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000009","2020-12","1053490912","Diamond Medical Group",1,"Voluntary",1,1,1,0,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-01","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-02","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-03","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-04","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-05","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-06","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-07","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-08","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-09","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-10","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-11","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000010","2020-12","1386783132","Moscow Medical PC",1,"Voluntary",0,0,0,1,0,0,0,0
+"PAYER2","MA","PAYER2_000011","2020-01","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,0,1
+"PAYER2","MA","PAYER2_000011","2020-02","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,0,1
+"PAYER2","MA","PAYER2_000011","2020-03","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-04","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-05","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-06","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-07","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-08","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-09","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-10","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-11","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000011","2020-12","1285900332","MSD Astoria",1,"Terminated",0,0,0,1,0,0,1,1
+"PAYER2","MA","PAYER2_000012","2020-01","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000012","2020-02","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000012","2020-03","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000012","2020-04","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000012","2020-05","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-06","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-07","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-08","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-09","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-10","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-11","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,1,1,0,0,0,0,1
+"PAYER2","MA","PAYER2_000012","2020-12","1275617987","Primary PartnerCare Physicians PLLC",1,"Voluntary",1,1,1,0,0,0,0,1
+"PAYER2","MA","PAYER2_000013","2020-03","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-04","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-05","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-06","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-07","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-08","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-09","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-10","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-11","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000013","2020-12","1164517413","Keith Hoerning Doctors Care",1,"Voluntary",0,1,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-01","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-02","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-03","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-04","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-05","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-06","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-07","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-08","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000014","2020-09","1942292206","Primary PartnerCare Physicians PLLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-01","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-02","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-03","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-04","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-05","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-06","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-07","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-08","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-09","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-10","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-11","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000015","2020-12","1528254570","South Island Family Medical LLC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-01","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-02","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-03","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-04","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-05","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-06","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-07","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-08","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-09","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-10","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-11","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000016","2020-12","1598956112","One Medical - 5 Columbus Circle",1,"Employed",0,1,0,0,1,0,0,0
+"PAYER2","MA","PAYER2_000017","2020-09","1861573768","Renee Lefland MD PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000017","2020-10","1861573768","Renee Lefland MD PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000017","2020-11","1861573768","Renee Lefland MD PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000017","2020-12","1861573768","Renee Lefland MD PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-01","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-02","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-03","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-04","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-05","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-06","1023185618","Victor Tenenbaum",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-07","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-08","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-09","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-10","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-11","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000018","2020-12","1023185618","Victor Tenenbaum",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-01","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-02","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-03","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-04","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-05","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-06","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-07","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-08","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-09","1588641849","Frank Scafuri III DO PC",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-10","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-11","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000019","2020-12","1588641849","Frank Scafuri III DO PC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-01","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-02","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-03","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-04","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-05","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-06","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-07","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-08","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-09","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-10","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-11","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER2","MA","PAYER2_000020","2020-12","1275584138","Mount Sinai Doctors Staten Island - Victory Internal Medicine",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-01","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-02","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-03","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-04","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-05","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-06","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-07","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-08","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-09","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-10","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000001","2020-11","1740414028","Ryan/Chelsea-Clinton Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000002","2020-03","1134546195","Internal Medicine Associates",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000002","2020-04","1134546195","Internal Medicine Associates",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000002","2020-05","1134546195","Internal Medicine Associates",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000003","2020-12","1992871032","Sumathy Reddy MD",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000004","2020-01","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-02","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-03","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-04","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-05","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-06","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-07","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-08","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-09","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-10","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-11","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000004","2020-12","1669436606","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000005","2020-01","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-02","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-03","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-04","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-05","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-06","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-07","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-08","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-09","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-10","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-11","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000005","2020-12","1073804571","Pediatrics",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-01","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-02","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-03","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-04","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-05","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-06","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-07","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-08","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-09","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-10","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-11","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000006","2020-12","1114968385","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,1
+"PAYER3","Medicaid","PAYER3_000007","2020-07","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000007","2020-08","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000007","2020-09","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000007","2020-10","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000007","2020-11","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000007","2020-12","1134109754","Richard G. Merkler MD FAAP",1,"Voluntary",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-01","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-02","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-03","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-04","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-05","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-06","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-07","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-08","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-09","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-10","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-11","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000008","2020-12","1730111402","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-01","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-02","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-03","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-04","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-05","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-06","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-07","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-08","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-09","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-10","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-11","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000009","2020-12","1770967473","CHN - Washington Heights",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000010","2020-08","1033255476","IFH - Cadman Family Health Center",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000010","2020-09","1033255476","IFH - Cadman Family Health Center",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000010","2020-10","1033255476","IFH - Cadman Family Health Center",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000010","2020-11","1033255476","IFH - Cadman Family Health Center",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000010","2020-12","1033255476","IFH - Cadman Family Health Center",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-01","1720143662","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-02","1720143662","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-03","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-04","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-05","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-06","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-07","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-08","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-09","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-10","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-11","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000011","2020-12","1508245440","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000012","2020-11","1558357970","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000012","2020-12","1558357970","Unknown Practice - Not Affiliated",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000013","2020-10","1578528105","Mount Sinai Doctors Long Island - Five Towns-Hewlett",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000013","2020-11","1578528105","Mount Sinai Doctors Long Island - Five Towns-Hewlett",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000013","2020-12","1578528105","Mount Sinai Doctors Long Island - Five Towns-Hewlett",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-01","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-02","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-03","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-04","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-05","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-06","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-07","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-08","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-09","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-10","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-11","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000014","2020-12","1306041223","William F. Ryan Community Health Center",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000015","2020-09","1770518920","John R Fernandez MD PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000015","2020-10","1770518920","John R Fernandez MD PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000015","2020-11","1770518920","John R Fernandez MD PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000015","2020-12","1770518920","John R Fernandez MD PLLC",1,"Voluntary",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000016","2020-08","1477895829","MSD Astoria",1,"Employed",1,0,0,1,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000016","2020-09","1477895829","MSD Astoria",1,"Employed",1,0,0,1,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000016","2020-10","1477895829","MSD Astoria",1,"Employed",1,0,0,1,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000016","2020-11","1477895829","MSD Astoria",1,"Employed",1,0,0,1,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000016","2020-12","1477895829","MSD Astoria",1,"Employed",1,0,0,1,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-01","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-02","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-03","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-04","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-05","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-06","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-07","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-08","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-09","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-10","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-11","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000017","2020-12","1205896800","Unknown Practice - Not Affiliated",1,"Not Affiliated",1,1,1,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-04","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-05","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-06","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-07","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-08","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",0,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-09","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-10","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-11","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000018","2020-12","1295739944","Settlement Health - 212 East 106th Street",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000019","2020-01","1790767572","Settlement Health - 2070 First Avenue",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000019","2020-02","1790767572","Settlement Health - 2070 First Avenue",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000019","2020-03","1790767572","Settlement Health - 2070 First Avenue",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000019","2020-04","1790767572","Settlement Health - 2070 First Avenue",1,"Not Affiliated",1,0,0,0,0,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-01","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-02","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-03","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-04","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-05","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-06","1912996224","General Medical Associates",1,"Terminated",1,0,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-07","1912996224","General Medical Associates",1,"Terminated",1,1,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-08","1912996224","General Medical Associates",1,"Terminated",1,1,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-09","1912996224","General Medical Associates",1,"Terminated",1,1,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-10","1912996224","General Medical Associates",1,"Terminated",1,1,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-11","1912996224","General Medical Associates",1,"Terminated",1,1,0,0,1,0,0,0
+"PAYER3","Medicaid","PAYER3_000020","2020-12","1053350579","General Medical Associates",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-01","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-02","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-03","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-04","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-05","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-06","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-07","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-08","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-09","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-10","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-11","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000001","2020-12","1588662829","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,1,1,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-01","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-02","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-03","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-04","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-05","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-06","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-07","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-08","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-09","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-10","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-11","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000002","2020-12","1215940531","Mount Sinai Doctors Bellmore Primary Care",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-01","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-02","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-03","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-04","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-05","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-06","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-07","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-08","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-09","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-10","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-11","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000003","2020-12","1962487678","Mount Sinai Doctors Staten Island Primary Care (Martins)",1,"Terminated",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000004","2020-01","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-02","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-03","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-04","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-05","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-06","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-07","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-08","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-09","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-10","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-11","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000004","2020-12","1962726539","Mount Sinai Doctors - West 8th Avenue",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-01","1952728255","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-02","1952728255","Unknown Practice - Employed",1,"Employed",1,0,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-03","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-04","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-05","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,0,1
+"PAYER4","Medicare","PAYER4_000005","2020-06","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-07","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-08","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-09","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-10","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-11","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000005","2020-12","1952728255","Unknown Practice - Employed",1,"Employed",1,1,0,0,0,0,1,1
+"PAYER4","Medicare","PAYER4_000006","2020-01","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-02","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-03","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-04","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-05","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-06","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-07","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-08","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-09","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-10","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-11","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000006","2020-12","1952394967","Mount Sinai Doctors Ansonia",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-01","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-02","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-03","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-04","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-05","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-06","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-07","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-08","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-09","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-10","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-11","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000007","2020-12","1871520049","Mount Sinai Doctors Long Island - Nesconset",1,"Employed",1,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-01","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-02","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-03","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-04","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-05","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-06","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-07","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-08","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-09","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-10","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-11","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000008","2020-12","1104938133","Mount Sinai Doctors Yonkers",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-01","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-02","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-03","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-04","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-05","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-06","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-07","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-08","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-09","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-10","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-11","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000009","2020-12","1861411365","Associates in Internal Medicine (East 86th St)",1,"Employed",0,1,1,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-01","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-02","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-03","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-04","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-05","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-06","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-07","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-08","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-09","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-10","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-11","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000010","2020-12","1790198455","Mount Sinai Doctors Long Island - Nesconset",1,"Terminated",0,0,0,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-01","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-02","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-03","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-04","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-05","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-06","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-07","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-08","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-09","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-10","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-11","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000011","2020-12","1134304108","Mount Sinai Doctors East 85th Street",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000012","2020-01","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-02","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-03","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-04","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-05","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-06","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-07","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-08","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-09","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-10","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-11","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000012","2020-12","1700180775","Mount Sinai Doctors Ansonia",1,"Terminated",0,0,0,0,0,0,1,0
+"PAYER4","Medicare","PAYER4_000013","2020-01","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-02","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-03","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-04","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-05","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-06","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-07","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-08","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-09","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-10","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-11","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000013","2020-12","1548266471","Mount Sinai Doctors Manhasset",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-01","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-02","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-03","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-04","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-05","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-06","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-07","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-08","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-09","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-10","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-11","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000014","2020-12","1023253572","Martha Stewart Center for Living at Mount Sinai-Union Square",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-01","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-02","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-03","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-04","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-05","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-06","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-07","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-08","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-09","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-10","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-11","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000015","2020-12","1386704302","Morningside Clinic",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-01","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-02","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-03","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-04","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-05","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,0,0
+"PAYER4","Medicare","PAYER4_000016","2020-06","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-07","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-08","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-09","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-10","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-11","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000016","2020-12","1497783583","Cardiovascular Disease",1,"Employed",1,1,0,0,1,0,1,0
+"PAYER4","Medicare","PAYER4_000017","2020-01","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-02","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-03","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-04","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-05","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-06","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-07","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-08","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-09","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-10","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-11","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000017","2020-12","1659429199","Internal Medicine",1,"Terminated",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-01","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-02","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-03","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-04","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-05","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-06","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-07","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-08","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-09","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-10","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-11","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000018","2020-12","1861461345","Mount Sinai Doctors Staten Island Primary Care ( Fulop )",1,"Employed",0,0,0,0,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-01","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-02","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-03","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-04","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-05","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-06","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-07","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-08","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-09","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-10","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-11","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000019","2020-12","1861498875","Mount Sinai Doctors Manhasset",1,"Terminated",1,1,1,1,0,0,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-01","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-02","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-03","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-04","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-05","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-06","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-07","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-08","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-09","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-10","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-11","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
+"PAYER4","Medicare","PAYER4_000020","2020-12","1114188570","Mount Sinai Doctors Williamsburg",1,"Employed",1,1,1,0,0,1,0,0
